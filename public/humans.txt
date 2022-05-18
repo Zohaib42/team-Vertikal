@@ -1,0 +1,8 @@
+
+/* TEAM */
+	Name: Patrick Delz
+	Site: https://team-vertikal.ch
+	Twitter: @_subpixel
+		
+/* SITE */
+	Doctype: HTML5
